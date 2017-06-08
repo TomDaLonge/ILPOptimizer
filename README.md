@@ -1,5 +1,5 @@
 # ILPOptimizer
-Using Simplex to solve a function with constraints
+Using Simplex to solve a linear function with a bunch of constraints
 
 # Course
 Intelligent Systems Design / 6. Semester
